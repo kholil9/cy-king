@@ -1,0 +1,14 @@
+{
+  "name": "cy-king",
+  "version": "1.0.0",
+  "description": "Cypres Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "kholil",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.3"
+  }
+}
